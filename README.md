@@ -26,7 +26,6 @@
   <a href = "http://youtube.com/c/HTechMedia/subscribe"><img src="https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube"></a>
   
 ㅤ</a>  ㅤ
-
   </a>  ㅤㅤ  
 </p>
 <p align="center">
