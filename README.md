@@ -24,9 +24,12 @@
 
 ## Click This Photo To Watch Youtube Tutorial Video⬇
 
-
+  </a>
+</p>
+<p align="center">
 <a href = "https://www.youtube.com"><img src="https://telegra.ph/file/267f04ca3df7751883b7f.jpg" width="300px"></a>
 
+  </a>
 
 
 
