@@ -28,8 +28,13 @@
 ㅤ</a>  ㅤ
 
   </a>  ㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/HTechMediaYT/Remove-BG-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HTechMediaYT/Remove-BG-Bot)
+</p>
+<p align="center">
+  <a href = "https://github.com/HTechMediaYT/Remove-BG-Bot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat"></a>
+  <a href = "https://github.com/HTechMediaYT/Remove-BG-Bot"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
+  </a>  
+  
   </a>
 </p>
 <p align="center">
