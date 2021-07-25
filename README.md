@@ -24,16 +24,8 @@
 
 ## Click This Photo To Watch Youtube Tutorial Video⬇
 
-[![Youtube]
-    {
-        "width": 320,
-        "height": 160,
-        "formatType": "jpg",
-        "sourceFile": "https://telegra.ph/file/0fdf01796f1f42ee24f65.jpg",
-        "targetPath": "https://telegra.ph/file/0fdf01796f1f42ee24f65.jpg"
-    }
- ](https://www.youtube.com)
 
+[![Youtube](https://telegra.ph/file/0fdf01796f1f42ee24f65.jpg)](https://www.youtube.com)
 
 
 A photo background remover telegram bot with pyrogram framework.
