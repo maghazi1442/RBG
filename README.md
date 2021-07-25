@@ -25,7 +25,7 @@
 ## Click This Photo To Watch Youtube Tutorial Video⬇
 
 
-[![Youtube](https://t.me/TestchannelPtQ/4)](https://www.youtube.com)
+[![Youtube](https://telegram.dog/TestchannelPtQ/4)](https://www.youtube.com)
 
 
 
