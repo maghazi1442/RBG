@@ -14,7 +14,7 @@
 
   </a>  
 </p>
-
+<p align="center">
 [![HTechMediaYT](https://img.shields.io/badge/HTechMedia-TG--Channel-green?style=for-the-badge&logo=telegram)](https://telegram.dog/HTechMedia)         [![HTechMediaYT](https://img.shields.io/badge/HTechMedia-TG--Support-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HTechMediaSupport)
 
 [![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/c/HTechMedia/subscribe)  
