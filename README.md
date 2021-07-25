@@ -56,7 +56,7 @@ Click This Photo To Watch Youtube Tutorial Video⬇
 
 
 
-                                                 Deploy to Heroku👇
+## Deploy to Heroku👇
   </a>
 </p>
 <p align="center">
