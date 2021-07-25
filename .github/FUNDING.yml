@@ -1,2 +1,4 @@
 github: [HTechMedia]
 custom: ['https://www.paypal.me/NxtStark']
+- name: Image Resizer
+  uses: AlexRogalskiy/github-action-image-resizer@v2.0.1
