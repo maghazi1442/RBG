@@ -1,16 +1,16 @@
-# Youtube Downloader Bot 😉
+# Remove Bg Bot 😉
 
 
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/HTechMediaYT/stars/HTechMediaYT/?style=social">
-    <img src="https://img.shields.io/github/stars/HTechMediaYT/Youtube-Downloader-Bot?label=Star&style=social">
+  <a href="https://github.com/HTechMediaYT/Remove-BG-Bot/stars">
+    <img src="https://img.shields.io/github/stars/HTechMediaYT/Remove-BG-Bot?label=Star&style=social">
 
   </a>
   
-  <a href="https://github.com/HTechMediaYT/Instagram-Bot/fork">
-    <img src="https://img.shields.io/github/forks/HTechMediaYT/Youtube-Downloader-Bot?label=Fork&style=social">
+  <a href="https://github.com/HTechMediaYT/Remove-BG-Bot/fork">
+    <img src="https://img.shields.io/github/forks/HTechMediaYT/Remove-BG-Bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -19,7 +19,7 @@
 
 [![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/channel/UCrAM4Fg0zn7uLgAAfll-SWQ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/HTechMediaYT/Youtube-Downloader-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HTechMediaYT/Youtube-Downloader-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/HTechMediaYT/Remove-BG-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HTechMediaYT/Remove-BG-Bot)
 
 
 # Watch Youtube Tutorial ⬇
@@ -32,7 +32,7 @@ You can Download almost anything From Youtube.
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Youtube-Downloader-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot)
 
 
 
