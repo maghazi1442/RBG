@@ -25,8 +25,7 @@
 # Watch Youtube Tutorial ⬇
 
 
-
-You can Download almost anything From Youtube.
+A photo background remover telegram bot with pyrogram framework.
 
 
 
