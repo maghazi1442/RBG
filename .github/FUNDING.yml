@@ -1,10 +1,8 @@
 github: [HTechMedia]
 custom: ['https://www.paypal.me/NxtStark']
-- name: Resize images
-  uses: alexrogalskiy/github-action-image-resizer@master
+- name: Image Resizer Action
+  uses: sharadcodes/img-resizer@v1.1
   with:
-    prefix: '<!--views:marker:start-->\n'
-    suffix: '\n<!--views:marker:end-->'
-    sourceFile: './data/info.md'
-    placeholder: '<!--views:marker:start-->[\s\S]*?<!--views:marker:end-->'
-    replacement: '<p align="center" style="text-align:center;">Data Block</p>'
+    image-folder: 'my_images' # This is a Required field & this folder has original images
+    new-resolution: '400x200' # This is Required field
+    output-folder: "my_resized_images" # This is Required field & this folder will be used to store resized images
