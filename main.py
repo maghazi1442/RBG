@@ -2,7 +2,6 @@
 # (C) @FayasNoushad
 # Copyright permission under MIT License
 # All rights reserved by FayasNoushad
-# License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
 
 import os
 import requests
@@ -22,28 +21,28 @@ FayasNoushad = Client(
 START_TEXT = """
 Hello {}, I am a photo background remover bot. Send me a photo I will send the photo without background.
 
-Made by @FayasNoushad
+Made by @HTechMedia
 """
 HELP_TEXT = """
 - Just send me a photo
 - I will download it
 - I will send the photo without background
 
-Made by @FayasNoushad
+Made by @HTechMedia
 """
 ABOUT_TEXT = """
 - **Bot :** `Backround Remover Bot`
 - **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Remove-BG-Bot/tree/main)
+- **Channel :** [HTechMedia](https://telegram.me/HTechMedia)
+- **Source :** [Click here](https://github.com/HTechMedia/Remove-BG-Bot/tree/main)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+        InlineKeyboardButton('Channel', url='https://telegram.me/HTechMedia'),
+        InlineKeyboardButton('Support', url='https://telegram.me/HTechMediaSupport')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -72,11 +71,11 @@ ERROR_BUTTONS = InlineKeyboardMarkup(
     )
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Join Updates Channel', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('Join Updates Channel', url='https://telegram.me/HTechMedia')
         ]]
     )
 
-@FayasNoushad.on_callback_query()
+@NxtStark.on_callback_query()
 async def cb_data(bot, update):
     if update.data == "home":
         await update.message.edit_text(
@@ -99,7 +98,7 @@ async def cb_data(bot, update):
     else:
         await update.message.delete()
 
-@FayasNoushad.on_message(filters.private & filters.command(["start"]))
+@NxtStark.on_message(filters.private & filters.command(["start"]))
 async def start(bot, update):
     await update.reply_text(
         text=START_TEXT.format(update.from_user.mention),
@@ -107,7 +106,7 @@ async def start(bot, update):
         reply_markup=START_BUTTONS
     )
 
-@FayasNoushad.on_message(filters.private & (filters.photo | filters.document))
+@NxtStark.on_message(filters.private & (filters.photo | filters.document))
 async def remove_background(bot, update):
     if not API:
         await update.reply_text(
@@ -172,4 +171,4 @@ async def remove_background(bot, update):
             reply_markup=ERROR_BUTTONS
         )
 
-FayasNoushad.run()
+HTechMedia.run()
