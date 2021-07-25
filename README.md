@@ -24,7 +24,7 @@
   </a>
 </p>
 <p align="center">
-## Click This Photo To Watch Youtube Tutorial Video⬇
+Click This Photo To Watch Youtube Tutorial Video⬇
 
   </a>
   
