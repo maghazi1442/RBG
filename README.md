@@ -1,5 +1,9 @@
-# Remove Bg Bot 😉
-
+  </a>
+</p>
+<p align="center">
+  <a href="# Remove Bg Bot 😉
+           
+  </a>       
 
   </a>
 </p>
