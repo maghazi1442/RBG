@@ -75,7 +75,7 @@ BUTTONS = InlineKeyboardMarkup(
         ]]
     )
 
-@NxtStark.on_callback_query()
+@HTechMediaYT.on_callback_query()
 async def cb_data(bot, update):
     if update.data == "home":
         await update.message.edit_text(
@@ -98,7 +98,7 @@ async def cb_data(bot, update):
     else:
         await update.message.delete()
 
-@NxtStark.on_message(filters.private & filters.command(["start"]))
+@HTechMediaYT.on_message(filters.private & filters.command(["start"]))
 async def start(bot, update):
     await update.reply_text(
         text=START_TEXT.format(update.from_user.mention),
@@ -106,7 +106,7 @@ async def start(bot, update):
         reply_markup=START_BUTTONS
     )
 
-@NxtStark.on_message(filters.private & (filters.photo | filters.document))
+@HTechMediaYT.on_message(filters.private & (filters.photo | filters.document))
 async def remove_background(bot, update):
     if not API:
         await update.reply_text(
