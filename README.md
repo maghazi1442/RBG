@@ -19,10 +19,15 @@
   <a href = "https://telegram.dog/HTechMediaSupport"><img src="https://img.shields.io/badge/HTechMedia-TG--Support-orange?style=for-the-badge&logo=telegram"></a>
 
   </a>  
+  
+  </a>  
 </p>
 <p align="center">
   <a href = "http://youtube.com/c/HTechMedia/subscribe"><img src="https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube"></a>
-ㅤ</a>  ㅤㅤㅤㅤㅤ  
+  
+ㅤ</a>  ㅤ
+
+  </a>  ㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/HTechMediaYT/Remove-BG-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HTechMediaYT/Remove-BG-Bot)
 
   </a>
