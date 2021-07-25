@@ -25,7 +25,7 @@
 ## Click This Photo To Watch Youtube Tutorial Video⬇
 
 
-[![Youtube](https://telegra.ph/file/0fdf01796f1f42ee24f65.jpg)](https://www.youtube.com)
+[![Youtube](https://t.me/TestchannelPtQ/4)](https://www.youtube.com)
 
 
 
