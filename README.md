@@ -95,5 +95,5 @@ This Bot is Indended to be used only for Educational Purposes.
 [![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/c/HTechMedia/subscribe)
 
 
-# THANK YOU
+#### THANK YOU
 
