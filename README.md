@@ -30,7 +30,7 @@
         "height": 160,
         "formatType": "jpg",
         "sourceFile": "https://telegra.ph/file/0fdf01796f1f42ee24f65.jpg",
-        "targetPath": "./data"
+        "targetPath": "https://telegra.ph/file/0fdf01796f1f42ee24f65.jpg"
     }
  ](https://www.youtube.com)
 
