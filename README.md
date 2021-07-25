@@ -50,7 +50,7 @@
 
 * `BOT_TOKEN` Bot token from [@BotFather](https://telegram.dog/BotFather)
 
-* `REMOVEBG_API` Watch Youtube Tutorial [Video](https://www.youtube.com)
+* `REMOVEBG_API` Watch Tutorial Video [In Youtube](https://www.youtube.com)
 
 
 ### Note
