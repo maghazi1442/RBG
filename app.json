@@ -15,7 +15,7 @@
             "description": "Your API_HASH from https://my.telegram.org/apps"
         },
         "REMOVEBG_API": {
-            "description": "Watch Youtube Tutorial Video"
+            "description": "Watch Youtube Tutorial Video 👁‍🗨"
         }
     },
     "buildpacks": [{"url": "heroku/python"}]
