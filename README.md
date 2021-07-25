@@ -17,7 +17,7 @@
 
 [![HTechMediaYT](https://img.shields.io/badge/HTechMedia-TG--Channel-green?style=for-the-badge&logo=telegram)](https://telegram.dog/HTechMedia)         [![HTechMediaYT](https://img.shields.io/badge/HTechMedia-TG--Support-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HTechMediaSupport)
 
-[![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/c/HTechMedia)  
+[![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/c/HTechMedia/subscribe)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/HTechMediaYT/Remove-BG-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HTechMediaYT/Remove-BG-Bot)
 
@@ -78,7 +78,7 @@ This Bot is Indended to be used only for Educational Purposes.
 
 ## Credits
 
-[![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/c/HTechMedia)
+[![HTechMediaYT](https://img.shields.io/badge/HTechMedia-Youtube-red?style=for-the-badge&logo=youtube)](http://youtube.com/c/HTechMedia/subscribe)
 
 
 # THANK YOU
