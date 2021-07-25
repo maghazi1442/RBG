@@ -1,7 +1,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="# Remove Bg Bot 😉
+  <a href="Remove Bg Bot 😉">
            
   </a>       
 
