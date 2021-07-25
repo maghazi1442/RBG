@@ -44,7 +44,7 @@ A photo background remover telegram bot with pyrogram framework.
 
 * `BOT_TOKEN` Bot token from [@BotFather](https://telegram.dog/BotFather)
 
-
+* `REMOVEBG_API` Watch Youtube Tutorial [Video](https://www.youtube.com)
 
 
 ### Note
