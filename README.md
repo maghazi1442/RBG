@@ -57,10 +57,7 @@ Click This Photo To Watch Youtube Tutorial Video⬇
 
 
 ## Deploy to Heroku👇
-  </a>
-</p>
-<p align="center">
-<a href = "https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+[![Deploy](https://heroku.com/deploy?template=https://github.com/HTechMediaYT/Remove-BG-Bot)](https://www.herokucdn.com/deploy/button.svg)
 
   </a>
 
