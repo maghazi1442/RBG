@@ -98,7 +98,7 @@ async def cb_data(bot, update):
     else:
         await update.message.delete()
 
-@HTechMedia.on_message(filters.private & filters.command(["start"]))
+@FayasNoushad.on_message(filters.private & filters.command(["start"]))
 async def start(bot, update):
     await update.reply_text(
         text=START_TEXT.format(update.from_user.mention),
@@ -106,7 +106,7 @@ async def start(bot, update):
         reply_markup=START_BUTTONS
     )
 
-@HTechMedia.on_message(filters.private & (filters.photo | filters.document))
+@FayasNoushad.on_message(filters.private & (filters.photo | filters.document))
 async def remove_background(bot, update):
     if not API:
         await update.reply_text(
@@ -171,4 +171,4 @@ async def remove_background(bot, update):
             reply_markup=ERROR_BUTTONS
         )
 
-HTechMedia.run()
+FayasNoushad.run()
