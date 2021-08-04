@@ -32,7 +32,7 @@ Made by @HTechMedia
 """
 ABOUT_TEXT = """
 - **Bot :** `Backround Remover Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
+- **Creator :** [NxtStark](https://telegram.me/NxtStark)
 - **Channel :** [HTechMedia](https://telegram.me/HTechMedia)
 - **Source :** [Click here](https://github.com/HTechMedia/Remove-BG-Bot/tree/main)
 - **Language :** [Python3](https://python.org)
