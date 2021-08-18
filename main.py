@@ -27,6 +27,8 @@ HELP_TEXT = """
 - Saya akan mengunduhnya
 - Saya akan mengirim foto tanpa latar belakang
 
+"Jangan Lupa Untuk Mendoakan Kemenangan Islam Dan Kaum Muslimin"
+
 Dibuat Oleh : @joincontact
 """
 ABOUT_TEXT = """
