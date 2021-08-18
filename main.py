@@ -39,7 +39,7 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://t.me/joinchat/MqIZwRUce1cwYThh'),
+        InlineKeyboardButton('Channel', url='https://t.me/joinchat/8aUj-1n55idiOGE5'),
         InlineKeyboardButton('Contact', url='https://t.me/joincontact')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
