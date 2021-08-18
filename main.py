@@ -35,9 +35,7 @@ ABOUT_TEXT = """
 - **Bot :** `Penghapus Background Bot`
 - **Creator :** [ADMIN](https://telegram.me/joincontact)
 - **Channel :** [ANNAJIYAH MEDIA CENTER](https://t.me/joinchat/J-vsJ20Odn5iNzUx)
-- **Language :** [Python3](https://python.org)
-- **Library :** [Pyrogram](https://pyrogram.org)
-- **Server :** [Heroku](https://heroku.com)
+
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
