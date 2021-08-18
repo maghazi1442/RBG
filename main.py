@@ -19,30 +19,28 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a photo background remover bot. Send me a photo I will send the photo without background.
-
-Made by @HTechMedia
+Selamat bergabung ikhwah fillah {},saya bot penghapus latar belakang foto. Kirimi saya foto Saya akan mengirim foto tanpa latar belakang.
+Dibuat oleh : @joincontact
 """
 HELP_TEXT = """
-- Just send me a photo
-- I will download it
-- I will send the photo without background
+- Kirimkan saja saya foto
+- Saya akan mengunduhnya
+- Saya akan mengirim foto tanpa latar belakang
 
-Made by @HTechMedia
+Dibuat Oleh : @joincontact
 """
 ABOUT_TEXT = """
-- **Bot :** `Backround Remover Bot`
-- **Creator :** [NxtStark](https://telegram.me/NxtStark)
-- **Channel :** [HTechMedia](https://telegram.me/HTechMedia)
-- **Source :** [Click here](https://github.com/HTechMedia/Remove-BG-Bot/tree/main)
+- **Bot :** `Penghapus Background Bot`
+- **Creator :** [ADMIN](https://telegram.me/joincontact)
+- **Channel :** [ANNAJIYAH MEDIA CENTER](https://t.me/joinchat/J-vsJ20Odn5iNzUx)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/HTechMedia'),
-        InlineKeyboardButton('Support', url='https://telegram.me/HTechMediaSupport')
+        InlineKeyboardButton('Channel', url='https://t.me/joinchat/MqIZwRUce1cwYThh'),
+        InlineKeyboardButton('Contact', url='https://t.me/joincontact')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -71,7 +69,7 @@ ERROR_BUTTONS = InlineKeyboardMarkup(
     )
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Join Updates Channel', url='https://telegram.me/HTechMedia')
+        InlineKeyboardButton('Join Updates Channel', url='https://t.me/joinchat/8aUj-1n55idiOGE5')
         ]]
     )
 
