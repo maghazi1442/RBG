@@ -1,7 +1,7 @@
 # Made with python3
-# (C) @FayasNoushad
+# (C) @annajiyahmediacenter
 # Copyright permission under MIT License
-# All rights reserved by FayasNoushad
+# All rights reserved by Annajiyah Media Center
 
 import os
 import requests
@@ -19,28 +19,29 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Selamat bergabung ikhwah fillah {},saya bot penghapus latar belakang foto. Kirimi saya foto Saya akan mengirim foto tanpa latar belakang.
-Dibuat oleh : @joincontact
+بسم الله الرحمن الرحيم
+Selamat bergabung ikhwah fillah {},saya bot penghapus latar belakang gambar. Kirimi saya gambar maka Saya akan membantu menghapus latar belakang semampu saya.
+Dibuat oleh : @annajiyahmediacenter_1
 """
 HELP_TEXT = """
-- Kirimkan saja saya foto
-- Saya akan mengunduhnya
+- Kirimkan gambar ke bot ini
+- Saya akan membantu menghapus latar belakang
 - Saya akan mengirim foto tanpa latar belakang
 
 "Jangan Lupa Untuk Mendoakan Kemenangan Islam Dan Kaum Muslimin"
 
-Dibuat Oleh : @joincontact
+Dibuat Oleh : @annajiyahmediacenter_1
 """
 ABOUT_TEXT = """
 - **Bot :** `Penghapus Background Bot`
-- **Creator :** [ADMIN](https://telegram.me/joincontact)
-- **Channel :** [ANNAJIYAH MEDIA CENTER](https://t.me/joinchat/J-vsJ20Odn5iNzUx)
+- **Creator :** [ADMIN](https://telegram.me/annajiyahmediacenter_1)
+- **Channel :** [ANNAJIYAH MEDIA CENTER](https://t.me/joinchat/YzNzqLPRCXI5MDEx)
 
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://t.me/joinchat/8aUj-1n55idiOGE5'),
-        InlineKeyboardButton('Contact', url='https://t.me/joincontact')
+        InlineKeyboardButton('Link Annajiyah Media Center', url='https://t.me/joinchat/8aUj-1n55idiOGE5'),
+        InlineKeyboardButton('Koleksi Bot', url='https://t.me/annajiyahrobot')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -116,7 +117,7 @@ async def remove_background(bot, update):
         return
     await update.reply_chat_action("typing")
     message = await update.reply_text(
-        text="Analysing",
+        text="Bismillah Sedang Proses",
         quote=True,
         disable_web_page_preview=True
     )
@@ -125,7 +126,7 @@ async def remove_background(bot, update):
         new_file_name = IMG_PATH + "/" + str(update.from_user.id) + "/" + "no_bg.png"
         await update.download(file_name)
         await message.edit_text(
-            text="Photo downloaded successfully. Now removing background.",
+            text="Gambar selesai di hapus dan ikhwah dapat mendownloadnya..",
             disable_web_page_preview=True
         )
         try:
@@ -169,4 +170,4 @@ async def remove_background(bot, update):
             reply_markup=ERROR_BUTTONS
         )
 
-FayasNoushad.run()
+Annajiyah Media Center.run()
