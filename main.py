@@ -1,5 +1,5 @@
 # Made with python3
-# (C) @annajiyahmediacenter
+# (C) @FayasNoushad
 # Copyright permission under MIT License
 # All rights reserved by Annajiyah Media Center
 
@@ -170,4 +170,4 @@ async def remove_background(bot, update):
             reply_markup=ERROR_BUTTONS
         )
 
-Annajiyah Media Center.run()
+FayasNoushad.run()
