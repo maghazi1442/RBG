@@ -21,7 +21,7 @@ FayasNoushad = Client(
 START_TEXT = """
 بسم الله الرحمن الرحيم
 Selamat bergabung ikhwah fillah {},saya bot penghapus latar belakang gambar. Kirimi saya gambar maka Saya akan membantu menghapus latar belakang semampu saya.
-Dibuat oleh : @annajiyahmediacenter_1
+
 """
 HELP_TEXT = """
 - Kirimkan gambar ke bot ini
@@ -30,18 +30,17 @@ HELP_TEXT = """
 
 "Jangan Lupa Untuk Mendoakan Kemenangan Islam Dan Kaum Muslimin"
 
-Dibuat Oleh : @annajiyahmediacenter_1
+Dibuat Oleh : @dev_annajiyahmediacenter
 """
 ABOUT_TEXT = """
 - **Bot :** `Penghapus Background Bot`
-- **Creator :** [ADMIN](https://telegram.me/annajiyahmediacenter_1)
-- **Channel :** [ANNAJIYAH MEDIA CENTER](https://t.me/joinchat/YzNzqLPRCXI5MDEx)
+
 
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Link Annajiyah Media Center', url='https://t.me/joinchat/8aUj-1n55idiOGE5'),
-        InlineKeyboardButton('Koleksi Bot', url='https://t.me/annajiyahrobot')
+        InlineKeyboardButton('creator', url='https://t.me/joinchat/dev_annajiyahmediacenter'),
+        InlineKeyboardButton('channel', url='https://t.me/annajiyahrobot')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
