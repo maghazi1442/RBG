@@ -30,7 +30,7 @@ HELP_TEXT = """
 
 "Jangan Lupa Untuk Mendoakan Kemenangan Islam Dan Kaum Muslimin"
 
-Dibuat Oleh : @dev_annajiyahmediacenter
+Dibuat Oleh : #Annajiyah_Media_Center
 """
 ABOUT_TEXT = """
 - **Bot :** `Penghapus Background Bot`
@@ -39,8 +39,8 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('creator', url='https://t.me/dev_annajiyahmediacenter'),
-        InlineKeyboardButton('channel', url='https://t.me/joinchat/YzNzqLPRCXI5MDEx')
+        InlineKeyboardButton('channel', url='https://t.me/joinchat/JBcrDwIEMzoxODdh'),
+        InlineKeyboardButton('contact', url='https://t.me/amc_contact_bot')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
