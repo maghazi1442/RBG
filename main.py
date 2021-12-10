@@ -39,8 +39,8 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('channel', url='https://t.me/joinchat/JBcrDwIEMzoxODdh'),
-        InlineKeyboardButton('contact', url='https://t.me/amc_contact_bot')
+        InlineKeyboardButton('channel', url='https://t.me/+SanO-EuVn-NjODQx'),
+        InlineKeyboardButton('contact', url='http://t.me/Annajiyahmediacenter0')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -69,7 +69,7 @@ ERROR_BUTTONS = InlineKeyboardMarkup(
     )
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Join Updates Channel', url='https://t.me/joinchat/YzNzqLPRCXI5MDEx')
+        InlineKeyboardButton('Join Updates Channel', url='https://t.me/+SanO-EuVn-NjODQx')
         ]]
     )
 
